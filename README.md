@@ -1,5 +1,10 @@
 # Excavator Keypoints Detection using YOLOv11
 
+[![python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![pytorch](https://img.shields.io/badge/PyTorch-2.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
+![Static Badge](https://img.shields.io/badge/Keypoints-Detection-cyan)
+![Static Badge](https://img.shields.io/badge/Ultralytics-darkblue)
+
 <img src="https://github.com/user-attachments/assets/50ca0ba4-0865-4ad2-9bbc-8504e3346e3d" width="270">
 <img src="https://github.com/user-attachments/assets/d8f2ac1a-b6ad-485f-af0b-446296962e7e" width="270">
 <img src="https://github.com/user-attachments/assets/a83d85c0-8e46-493c-822f-511d336198d3" width="270">
